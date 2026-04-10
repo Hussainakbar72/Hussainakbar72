@@ -17,10 +17,10 @@ Final-year Bachelor’s student in Artificial Intelligence with hands-on experie
 ---
 
 ### 💻 Skills
-- **Programming Languages:** Python, C++, JavaScript  
+- **Programming Languages:** Python, HTML, CSS  
 - **AI & ML:** Machine Learning, Deep Learning, Predictive Modeling  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Web & Management Systems:** Django, Flask, SQL, Project Management  
+- **Web & Management Systems:** Flask, SQL, Project Management  
 
 ---
 
@@ -29,7 +29,7 @@ Here are some highlighted repositories showcasing work in AI, predictive models,
 
 - [Car Price Pridiction](https://github.com/Hussainakbar72/Car-Price_prediction) – Brief description  
 - [Air Quality Index Pridiction](https://github.com/Hussainakbar72/Air-Quality-Index-Prediction) – Brief description  
-- [Project Name 3](#) – Brief description  
+- [house_Energy_Bill_Pridiction](https://github.com/Hussainakbar72/house_Energy_Bill_Pridiction) – Brief description  
 
 > Explore more projects in the repositories section.
 

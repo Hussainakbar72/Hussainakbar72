@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-Final-year Bachelor’s student in Artificial Intelligence with hands-on experience in predictive modeling, data analysis, and management system projects. Focused on building AI and data-driven solutions with both technical rigor and real-world impact.
+Bachelor’s student in Artificial Intelligence with hands-on experience in predictive modeling, data analysis, and management system projects. Focused on building AI and data-driven solutions with both technical rigor and real-world impact.
 
 ---
 

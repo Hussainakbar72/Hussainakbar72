@@ -29,9 +29,9 @@ Bachelor’s student in Artificial Intelligence with hands-on experience in pred
 ### 🚀 Projects
 Here are some highlighted repositories showcasing work in AI, predictive models, data analysis, and management systems:  
 
-- [Project Name 1](#) – Brief description  
-- [Project Name 2](#) – Brief description  
-- [Project Name 3](#) – Brief description  
+- [Car-Price_prediction](https://github.com/Hussainakbar72/Car-Price_prediction) – Brief description  
+- [Air-Quality-Index-Prediction](https://github.com/Hussainakbar72/Air-Quality-Index-Prediction) – Brief description  
+- [House_Energy_Bill_Pridiction](https://github.com/Hussainakbar72/house_Energy_Bill_Pridiction) – Brief description  
 
 > Explore more projects in the repositories section.
 

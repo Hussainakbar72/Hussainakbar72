@@ -37,8 +37,11 @@ Here are some highlighted repositories showcasing work in AI, predictive models,
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussainakber&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainakber&layout=compact&theme=tokyonight" />
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muzamilofficial&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=muzamilofficial&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 ---

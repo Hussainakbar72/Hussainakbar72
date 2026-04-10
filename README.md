@@ -6,7 +6,7 @@
 ---
 
 ## 👋 About Me  
-Hello! **Hussain Akbar**, a 4th-semester **Artificial Intelligence student**. Passionate about predictive modeling, data analysis, and management system projects. Dedicated to applying AI solutions to real-world challenges.
+Hello! **Hussain Akbar**, a bechoulor **Artificial Intelligence student**. Passionate about predictive modeling, data analysis, and management system projects. Dedicated to applying AI solutions to real-world challenges.
 
 ---
 

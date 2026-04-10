@@ -45,7 +45,7 @@ Here are some highlighted repositories showcasing work in AI, predictive models,
 
 ### 📫 Connect with Me
 - LinkedIn: [Hussain Akbar](https://www.linkedin.com/in/hussainakberofficials)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [Contect On Email](hussainakber353@gmail.com)
 
 ---
 

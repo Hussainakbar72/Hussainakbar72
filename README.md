@@ -1,71 +1,55 @@
-<!-- Header Typing Animation -->
+<h1 align="center">Hussain Akbar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00AEEF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Hussain+Akbar+👋;AI+Enthusiast+%26+Developer;Python+%7C+ML+%7C+Data+Analytics;Learning+AI+and+Building+Projects+Everyday!" />
+  <strong>Artificial Intelligence Enthusiast | Predictive Models | Data Analysis | Management Systems</strong>
 </p>
 
----
-
-## 👋 About Me  
-Hello! **Hussain Akbar**, a bechoulor **Artificial Intelligence student**. Passionate about predictive modeling, data analysis, and management system projects. Dedicated to applying AI solutions to real-world challenges.
-
----
-
-## 🚀 Skills & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,linux,vscode&theme=dark" />
-</p>
-
----
-
-## ⭐ Featured Projects  
-| Project | Description |
-|--------|-------------|
-| **Customer-Predictive-Model** | A predictive model for customer behavior using Python and ML algorithms. |
-| **Data-Analysis-Toolkit** | Tool for data cleaning, visualization, and analysis with Python. |
-| **Note-Management-System** | CLI-based OOP note manager storing data in TXT & Excel. |
-| **House-Price-Predictor** | Real-estate price prediction using regression models. |
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hussainakber&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
-
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=hussainakber&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
-<!-- Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainakber&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/hussainakberofficials/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hussainakber">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/hussainakberofficials" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
 ---
 
-## 🎯 My Goal  
-To develop impactful AI solutions, advance knowledge in machine learning, and contribute to open-source projects.
+### 👨‍💻 About Me
+Bachelor’s student in Artificial Intelligence with hands-on experience in predictive modeling, data analysis, and management system projects. Focused on building AI and data-driven solutions with both technical rigor and real-world impact.
 
+---
+
+### 💻 Skills
+- **Programming Languages:** Python, CSS, HTML  
+- **AI & ML:** Machine Learning, Deep Learning, Predictive Modeling  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Web & Management Systems:**Flask, SQL, Project Management  
+
+---
+
+### 🚀 Projects
+Here are some highlighted repositories showcasing work in AI, predictive models, data analysis, and management systems:  
+
+- [Project Name 1](#) – Brief description  
+- [Project Name 2](#) – Brief description  
+- [Project Name 3](#) – Brief description  
+
+> Explore more projects in the repositories section.
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainakber&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainakber&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## ⭐ Thanks for visiting my profile!  
+### 📫 Connect with Me
+- LinkedIn: [Hussain Akbar](https://www.linkedin.com/in/hussainakberofficials)
+- Email: [contect on email](hussainakber353@gmail.com)
+
+---
+
+### ✨ Fun Animation
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Solutions;Exploring+Data+Analytics;Creating+Predictive+Models&center=true&width=500&height=50" alt="Typing Animation"/>
 </p>

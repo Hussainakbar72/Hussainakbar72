@@ -27,7 +27,7 @@ Final-year Bachelor’s student in Artificial Intelligence with hands-on experie
 ### 🚀 Projects
 Here are some highlighted repositories showcasing work in AI, predictive models, data analysis, and management systems:  
 
-- [Project Name 1](#) – Brief description  
+- [Car Price Pridiction](https://github.com/Hussainakbar72/Car-Price_prediction) – Brief description  
 - [Project Name 2](#) – Brief description  
 - [Project Name 3](#) – Brief description  
 
